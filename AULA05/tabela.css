@@ -1,0 +1,29 @@
+table{
+    background-image: url(https://i.imgflip.com/5opfk3.jpg);
+    /* background-position: center;  */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    max-height: 200px;
+
+}
+
+h1{
+    font-family:Comic Sans MS;
+    font-size: 80px;
+    color:rgb(255, 255, 255) ;
+/* }
+img{
+    float: right; */
+}
+tr{
+    font-size: 15px;
+    color: aliceblue;
+    font-family:Comic Sans MS;
+    text-align: center;
+}
+caption{
+    font-size: 15px;
+    color: black;
+    font-family:Comic Sans MS;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://i0.statig.com.br/bancodeimagens/4l/wf/zh/4lwfzh2hzb36kowokmuscbq2g.jpg);
+    /* background-position: center;  */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family:Comic Sans MS;
+    font-size: 80px;
+    color:rgb(255, 255, 255) ;
+/* }
+img{
+    float: right; */
+
+}
+img{
+    float: middle;
+    margin: 30px;
+    height: 740px;
+} 
+
+/* img{
+    float: left;
+} */
