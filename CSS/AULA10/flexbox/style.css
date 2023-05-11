@@ -1,0 +1,28 @@
+.container{
+    padding: 10px;
+    height: 900px;
+    width: 900px;
+    border: solid 1px red;
+    display: flex;
+    flex-direction: row;
+}
+.item1{
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    margin: 10px;
+}
+
+.item2{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    margin: 10px;
+}
+
+.item3{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin:10px ;
+}

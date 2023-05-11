@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    margin: 9px;
+    color: white;
+    text-decoration: none;
+}
+
+header{
+    padding: 8px;
+    background-color: blueviolet;
+}
+
+a:hover{
+    background-color: aliceblue;
+    color: blueviolet;
+}
+
+nav{
+    padding-top: 20px 30px;
+}
+

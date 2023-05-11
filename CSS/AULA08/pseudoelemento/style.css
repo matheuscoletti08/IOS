@@ -1,0 +1,12 @@
+.p1::after{
+    content: "oioi"
+}
+
+.p2::before{
+    content: "??? "
+}
+
+.p3::selection{
+    background-color: violet;
+    color: white;
+}

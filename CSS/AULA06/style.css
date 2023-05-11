@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{
+    text-align: center;
+}
+
+body{
+    background:url(download.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botao{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #41ff90;
+    border: #41ff90 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px
+}
+
+.p1{
+    color: white;
+}
+
+h1{
+    font-size: 5rem;
+    color: white;
+    text-shadow: 0px 0px 19px;
+    font-style:'Comic Sans MS', sans-serif;
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+
+* {
+    text-align: center;
+}
+    
+p.mxmx{
+    font-size: 2em;
+    font-family: 'Nabla', cursive;
+    border-bottom: dotted 2px cornflowerblue;
+}
+
+p.emoji{
+    font-family: 'Noto Color Emoji', sans-serif;
+}
+
+#firula{
+    color: pink;
+}

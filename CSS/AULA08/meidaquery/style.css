@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(245, 234, 234);
+}
+
+h1{
+    font-size: 1,4em;
+    color: #ffb84c;
+}
+
+h2{
+    font-size: 1,4em;
+    color: rgb(164, 89, 209);
+}
+
+P{
+    font-size: 1,4em;
+    color: rgb(241, 103, 103);
+}
+
+img{
+    margin: 20px;
+    float: right;
+    width: 200px;
+    height: 100px ;
+}
+
+@media (max-width:650px){
+    h1{
+        color: red;
+    }
+
+    body{
+        background-color: rgb(245, 185, 237);
+    }
+
+    img{
+        display: none;
+    }
+}
+

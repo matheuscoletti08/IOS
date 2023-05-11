@@ -1,0 +1,62 @@
+*{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 40px;
+    margin-top: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    transition: 0.5s;
+    background-color: rgb(0, 140, 255);
+    border-radius: 5px;
+    font-family: arial;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    width: 100px;
+    height: 35px;
+}
+
+button:hover{
+    transition: 0.5s;
+    background-color: rgb(0, 47, 255);
+    border-radius: 5px;
+    font-family: arial;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    width: 100px;
+    height: 35px;
+}
+
+img{
+    margin: 80px;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    align-items: center;
+    transition: 2s;
+}
+
+.masqueico:hover{
+    animation: aula linear infinite 500ms;
+    transition: 2s;
+}
+
+@keyframes aula {
+    0%{
+        transform: rotate(0deg);
+    }
+    
+    100%{
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,11 @@
+a:link{
+    color: rgb(255, 163, 51);
+}
+
+a:visited{
+    color: rgb(196, 241, 255);
+}
+
+a:active{
+    color: rgb(170, 146, 255);
+}

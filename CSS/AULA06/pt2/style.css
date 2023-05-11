@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.div1{
+    background-color: blueviolet;
+    border: solid 1px;
+    height: 350px;
+    width: 350px;
+    margin: 5px;
+    float: right;
+}
+.div2{
+    background-color: slategrey;
+    border: solid 1px;
+    height: 350px;
+    width: 350px;
+    margin: 5px;
+    float: right;
+}
+.div3{
+    background-color: orangered;
+    border: solid 1px;
+    height: 350px;
+    width: 350px;
+    margin: 5px;
+    float: right;
+}
+.div4{
+    border: 1px solid blueviolet;
+    clear: left;
+    height: 363px
+}

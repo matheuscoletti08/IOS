@@ -1,0 +1,43 @@
+.logo {
+    background-color: silver;
+    text-align: center;
+
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    border: solid 1px black;
+    border-radius: 15px;
+}
+
+.mov:hover{
+    animation: aula 1s;
+    transition: 2s;
+}
+
+@keyframes aula {
+    0%{
+        transform: translateX(0px);
+    }
+
+    20%{
+        transform: translateX(10px);
+    }
+
+    40%{
+        transform: translateX(20px);
+    }
+
+    60%{
+        transform: translateX(-10px);
+    }
+
+    80%{
+        transform: translateX(-20px);
+    }
+    
+    100%{
+        transform: translateX(0px);
+    }
+}
