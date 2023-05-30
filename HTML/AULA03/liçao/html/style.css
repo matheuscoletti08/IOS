@@ -1,0 +1,47 @@
+p {
+  color: white;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #5001fa;
+}
+
+a {
+  text-decoration: none; /*Removemos o sublinhado*/
+  font-family: verdana;
+  color: #fce23d;
+  font-weight: bold;
+}
+
+h1 {
+  color: rgb(132, 251, 255);
+  font-family: "Comic Sans MS";
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  color: white;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  color: white;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+  color: white;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
